@@ -32,9 +32,8 @@ src="https://img.shields.io/github/followers/JakubPiecha?logo=github&style=for-t
 
 <a href="http://www.github.com/JakubPiecha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JakubPiecha&stroke=ef4444&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ef4444&currStreakLabel=3382ed&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
-### Support Me
 
-<a href="https://www.buymeacoffee.com/jakubpiecha"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 
 <!--
 **JakubPiecha/JakubPiecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
