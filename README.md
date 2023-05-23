@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jakub Piecha
 ====================================================================================================================================
 
-I've been learning to program since October 2022 after switching careers. I am looking for a job as a programmer.
+I started learning programming to change my professions. I am looking for a job as a programmer.
 
 * 🌍  I'm based in Mikołów
 * 🖥️  See my portfolio at [github](http://github.com/JakubPiecha/donation)
