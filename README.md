@@ -29,6 +29,7 @@ src="https://img.shields.io/github/followers/JakubPiecha?logo=github&style=for-t
 
 ### Badges
 
+https://www.codewars.com/users/JakubPiecha/badges/micro
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/JakubPiecha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JakubPiecha&stroke=ef4444&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ef4444&currStreakLabel=3382ed&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
